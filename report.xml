@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   techsky-eh.github.io/tech-sky-phishing-demo/
+   <url>      <param>uname=Gktemp</param>
+      <param>pass=password@12</param>
+   </url>
+   <url>      <param>uname=Techno</param>
+      <param>pass=@1234pwd</param>
+   </url>
+   <url>      <param>uname=Adam</param>
+      <param>pass=2015@adam</param>
+   </url>
+   <url>      <param>uname=Adam</param>
+      <param>pass=2015@adam</param>
+   </url>
+   <url>      <param>uname=Techno</param>
+      <param>pass=jdbfjdnj</param>
+   </url>
+   <url>      <param>uname=GK</param>
+      <param>pass=@234567</param>
+   </url>
+   <url>      <param>uname=GK</param>
+      <param>pass=@234567</param>
+   </url>
+</harvester>
